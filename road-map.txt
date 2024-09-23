@@ -1,0 +1,19 @@
+done :
+01 - Creat json object for Question
+02 - start creating html markup
+03 - Add dummy Data
+04 - create the styling
+
+
+In Prgress
+05 - fetch number of Question from json object
+06 - show question count + Question category
+07 - show the number of Bullets Depend on Question
+08 - set the number for the right and wrong answer
+09- create countdown timer
+10 - fetch the question from json object
+11 - show the first questions
+12 - check answer and hide question then show next one
+13 - if the time end mark the question as a wrong and show next question
+14 - add class on bullet after answerin question
+15 - if question finished show the result
